@@ -1,5 +1,5 @@
 # supervisord-notifications
-PHP script that feed notifications from supervisord events into various services
+PHP script that feed notifications from [supervisord](http://supervisord.org) events into various services
 
 ## Supported links
 - IRC via the [supybot-github](https://github.com/kongr45gpen/supybot-github) plugin
